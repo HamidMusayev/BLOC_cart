@@ -1,4 +1,4 @@
-# bloc_app
+# Bloc pattern application
 
 A new Flutter application.
 
