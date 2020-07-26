@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
     return MaterialApp(
       routes: {
         "/": (BuildContext context) => ProductListScreen(),
-        "cart": (BuildContext context) => CartScreen()
+        "/cart": (BuildContext context) => CartScreen()
       },
       initialRoute: "/",
     );
