@@ -1,6 +1,6 @@
-# Bloc pattern application
+# BLoC pattern 
 
-A new Flutter application.
+Add products to cart and remove from cart using BLoC pattern
 
 ## Getting Started
 
